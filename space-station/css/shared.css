@@ -44,6 +44,7 @@ h1::after { /* This is the underline */
 	display: block;
 	content: "";
 	height: 2px;
+	width: 150px;
 	background: #E91C1C;
 	margin: 5px auto 40px;
 	box-shadow: 5px 2px 3px rgba(0,0,0,.5);
@@ -328,6 +329,15 @@ Contact Styles
 	box-shadow: inset 1px 2px 15px 0 rgba(0,0,0,0.5);
 }	
 	
-	
+/*=======================================
+  FOOTER STYLES
+  =======================================*/
+#footer {
+    background-color: rgba(100,65,0,.3);
+    color: #000;
+	text-shadow: 2px 2px 8px 0 (0,0,0,0.4);
+    padding: 20px 50px 20px 50px;
+    text-align: right;
+}
 	
 	
