@@ -1,0 +1,6 @@
+c:\users\user\source\repos\SalaryDrill\SalaryDrill\bin\Debug\SalaryDrill.exe.config
+c:\users\user\source\repos\SalaryDrill\SalaryDrill\bin\Debug\SalaryDrill.exe
+c:\users\user\source\repos\SalaryDrill\SalaryDrill\bin\Debug\SalaryDrill.pdb
+c:\users\user\source\repos\SalaryDrill\SalaryDrill\obj\Debug\SalaryDrill.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SalaryDrill\SalaryDrill\obj\Debug\SalaryDrill.exe
+c:\users\user\source\repos\SalaryDrill\SalaryDrill\obj\Debug\SalaryDrill.pdb
