@@ -1,0 +1,7 @@
+c:\users\user\source\repos\ArraryAndList\ArraryAndList\obj\Debug\ArraryAndList.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ArraryAndList\ArraryAndList\bin\Debug\ArraryAndList.exe.config
+c:\users\user\source\repos\ArraryAndList\ArraryAndList\bin\Debug\ArraryAndList.exe
+c:\users\user\source\repos\ArraryAndList\ArraryAndList\bin\Debug\ArraryAndList.pdb
+c:\users\user\source\repos\ArraryAndList\ArraryAndList\obj\Debug\ArraryAndList.exe
+c:\users\user\source\repos\ArraryAndList\ArraryAndList\obj\Debug\ArraryAndList.pdb
+c:\users\user\source\repos\ArraryAndList\ArraryAndList\obj\Debug\ArraryAndList.csprojAssemblyReference.cache
