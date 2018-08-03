@@ -1,0 +1,6 @@
+c:\users\user\source\repos\ClassMethods1\ClassMethods1\bin\Debug\ClassMethods1.exe.config
+c:\users\user\source\repos\ClassMethods1\ClassMethods1\bin\Debug\ClassMethods1.exe
+c:\users\user\source\repos\ClassMethods1\ClassMethods1\bin\Debug\ClassMethods1.pdb
+c:\users\user\source\repos\ClassMethods1\ClassMethods1\obj\Debug\ClassMethods1.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ClassMethods1\ClassMethods1\obj\Debug\ClassMethods1.exe
+c:\users\user\source\repos\ClassMethods1\ClassMethods1\obj\Debug\ClassMethods1.pdb
