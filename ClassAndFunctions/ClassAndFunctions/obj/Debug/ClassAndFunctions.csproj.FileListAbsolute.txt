@@ -1,0 +1,7 @@
+c:\users\user\source\repos\ClassAndFunctions\ClassAndFunctions\obj\Debug\ClassAndFunctions.csprojAssemblyReference.cache
+c:\users\user\source\repos\ClassAndFunctions\ClassAndFunctions\obj\Debug\ClassAndFunctions.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ClassAndFunctions\ClassAndFunctions\bin\Debug\ClassAndFunctions.exe.config
+c:\users\user\source\repos\ClassAndFunctions\ClassAndFunctions\bin\Debug\ClassAndFunctions.exe
+c:\users\user\source\repos\ClassAndFunctions\ClassAndFunctions\bin\Debug\ClassAndFunctions.pdb
+c:\users\user\source\repos\ClassAndFunctions\ClassAndFunctions\obj\Debug\ClassAndFunctions.exe
+c:\users\user\source\repos\ClassAndFunctions\ClassAndFunctions\obj\Debug\ClassAndFunctions.pdb
