@@ -1,0 +1,7 @@
+c:\users\user\source\repos\ClassAndsMethods2\ClassAndsMethods2\bin\Debug\ClassAndsMethods2.exe.config
+c:\users\user\source\repos\ClassAndsMethods2\ClassAndsMethods2\bin\Debug\ClassAndsMethods2.exe
+c:\users\user\source\repos\ClassAndsMethods2\ClassAndsMethods2\bin\Debug\ClassAndsMethods2.pdb
+c:\users\user\source\repos\ClassAndsMethods2\ClassAndsMethods2\obj\Debug\ClassAndsMethods2.csprojAssemblyReference.cache
+c:\users\user\source\repos\ClassAndsMethods2\ClassAndsMethods2\obj\Debug\ClassAndsMethods2.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ClassAndsMethods2\ClassAndsMethods2\obj\Debug\ClassAndsMethods2.exe
+c:\users\user\source\repos\ClassAndsMethods2\ClassAndsMethods2\obj\Debug\ClassAndsMethods2.pdb
