@@ -1,0 +1,7 @@
+c:\users\user\source\repos\ClassAndMethods3\ClassAndMethods3\bin\Debug\ClassAndMethods3.exe.config
+c:\users\user\source\repos\ClassAndMethods3\ClassAndMethods3\bin\Debug\ClassAndMethods3.exe
+c:\users\user\source\repos\ClassAndMethods3\ClassAndMethods3\bin\Debug\ClassAndMethods3.pdb
+c:\users\user\source\repos\ClassAndMethods3\ClassAndMethods3\obj\Debug\ClassAndMethods3.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ClassAndMethods3\ClassAndMethods3\obj\Debug\ClassAndMethods3.exe
+c:\users\user\source\repos\ClassAndMethods3\ClassAndMethods3\obj\Debug\ClassAndMethods3.pdb
+c:\users\user\source\repos\ClassAndMethods3\ClassAndMethods3\obj\Debug\ClassAndMethods3.csprojAssemblyReference.cache
