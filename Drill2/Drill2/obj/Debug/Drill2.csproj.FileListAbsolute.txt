@@ -1,0 +1,6 @@
+c:\users\user\source\repos\Drill2\Drill2\bin\Debug\Drill2.exe.config
+c:\users\user\source\repos\Drill2\Drill2\bin\Debug\Drill2.exe
+c:\users\user\source\repos\Drill2\Drill2\bin\Debug\Drill2.pdb
+c:\users\user\source\repos\Drill2\Drill2\obj\Debug\Drill2.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Drill2\Drill2\obj\Debug\Drill2.exe
+c:\users\user\source\repos\Drill2\Drill2\obj\Debug\Drill2.pdb
