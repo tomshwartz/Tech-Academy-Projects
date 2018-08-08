@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Struckts\Struckts\bin\Debug\Struckts.exe.config
+C:\Users\User\source\repos\Struckts\Struckts\bin\Debug\Struckts.exe
+C:\Users\User\source\repos\Struckts\Struckts\bin\Debug\Struckts.pdb
+C:\Users\User\source\repos\Struckts\Struckts\obj\Debug\Struckts.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Struckts\Struckts\obj\Debug\Struckts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Struckts\Struckts\obj\Debug\Struckts.exe
+C:\Users\User\source\repos\Struckts\Struckts\obj\Debug\Struckts.pdb
