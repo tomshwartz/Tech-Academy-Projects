@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\OverLoad\OverLoad\bin\Debug\OverLoad.exe.config
+C:\Users\User\source\repos\OverLoad\OverLoad\bin\Debug\OverLoad.exe
+C:\Users\User\source\repos\OverLoad\OverLoad\bin\Debug\OverLoad.pdb
+C:\Users\User\source\repos\OverLoad\OverLoad\obj\Debug\OverLoad.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OverLoad\OverLoad\obj\Debug\OverLoad.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OverLoad\OverLoad\obj\Debug\OverLoad.exe
+C:\Users\User\source\repos\OverLoad\OverLoad\obj\Debug\OverLoad.pdb
